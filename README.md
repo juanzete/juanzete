@@ -5,7 +5,7 @@ DevSecOps that runs itself, and edge AI from national-scale camera networks down
 Fifteen-plus years in software, still shipping complete products.
 
 **Writing and notes:** [bitof.dev](https://bitof.dev) — architecture, trade-offs and the configs behind them.
-**Say hello:** [bitof.dev/#contact](https://bitof.dev/#contact) · [LinkedIn](https://www.linkedin.com/in/juanzete)
+**Say hello:** [bitof.dev/#contact](https://bitof.dev/#contact) · [LinkedIn](https://www.linkedin.com/in/jmtissera)
 
 Most of my work lives in private and client repositories; the thinking behind it is on the site.
 Public here: [sketch-diagrams](https://github.com/juanzete/sketch-diagrams), the hand-drawn architecture
